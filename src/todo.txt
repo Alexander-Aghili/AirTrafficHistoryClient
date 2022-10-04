@@ -1,0 +1,25 @@
+- Create client side experience (Generation of timelapse)
+
+- Fix backend issues (Email opensky)
+
+- Refactor interpolation and generate timelapse function such that interpolation can be adjusted(and deactivited)
+
+- Bounding Box displayable for Areabounds (toggle if possible)
+
+- Changing size of Aircraft upon resize of screen (Post-Vector layer Generation)
+
+- Toggle features for interactivity
+
+- Prevent planes from disappearing during movement
+
+- Trails after planes effect
+
+- Add screen loading
+
+- Add pause and scroll through time UI and functionality
+
+- Add Aircraft filtration
+
+- Heading interpolation
+
+- Delete Aircraft paused in the air ( > 0 velocity in same position multiple 5 interval timestamps)
